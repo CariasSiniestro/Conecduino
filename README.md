@@ -7,7 +7,7 @@ connection are inside sketch. There are 3 files:
   Definition of all neurons (302)
   
 2. ValoresConectoma.h
-  Have de weight of each connection on connectome
+  Have the weight of each connection on connectome
   
 3. ConectomaV4_1_1.ino
   is the main file
